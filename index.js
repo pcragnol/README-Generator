@@ -38,7 +38,7 @@ ${usage}
 
 ## License
 
-${license ? `This project is licensed under the ${license} license.` : 'This project is not licensed.'}
+${license ? `This project is licensed under the ${license}.` : 'This project is not licensed.'}
 
 ## Contributing
 

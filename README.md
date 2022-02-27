@@ -1,10 +1,14 @@
-# Test
+# Professional README Generator
 
 [![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Test
+This project uses Node.js and the Inquirer package to ask a user questions about their project to create a professional README.
+
+## Demo
+
+[Video](https://drive.google.com/file/d/1KLDbs6fBAGVTFJj0OJzuPNkCNNL7l5I_/view?usp=sharing)
 
 ## Table of Contents
 
@@ -30,15 +34,15 @@ npm i
 
 ## Usage
 
-Test
+You must have Node.js installed, then you must install necessary dependencies, then you execute the program by running the code "node index.js".
 
 ## License
 
-This project is licensed under the MIT License license.
+This project is licensed under the MIT License.
 
 ## Contributing
 
-Test
+You can fork this repository for yourself and make improvements as you see fit.
 
 ## Tests
 
@@ -50,4 +54,9 @@ npm test
 
 ## Questions
 
-If you have any questions about this repository, open an issue or contact me directly at [pcragnol@gmail.com](mailto:pcragnol@gmail.com). You can find more of my work at [Test](https://github.com/Test/).
+If you have any questions about this repository, open an issue or contact me directly at [pcragnol@gmail.com](mailto:pcragnol@gmail.com). You can find more of my work at [pcragnol](https://github.com/pcragnol/).
+
+---
+© 2022 Peter Cragnoline
+
+Licensed under [MIT License](LICENSE)
