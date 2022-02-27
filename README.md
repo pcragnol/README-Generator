@@ -1,9 +1,10 @@
-# test
+# Test
 
+[![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-test
+Test
 
 ## Table of Contents
 
@@ -29,15 +30,15 @@ npm i
 
 ## Usage
 
-test
+Test
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the MIT License license.
 
 ## Contributing
 
-test
+Test
 
 ## Tests
 
@@ -49,4 +50,4 @@ npm test
 
 ## Questions
 
-If you have any questions about this repository, open an issue or contact me directly at test. You can find more of my work at [test](https://github.com/test/).
+If you have any questions about this repository, open an issue or contact me directly at [pcragnol@gmail.com](mailto:pcragnol@gmail.com). You can find more of my work at [Test](https://github.com/Test/).
